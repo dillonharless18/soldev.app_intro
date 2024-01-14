@@ -15,7 +15,7 @@ if (!suppliedToPubkey) {
   process.exit(1);
 }
 
-const senderKeypair = getKeypairFromEnvironment('SECRET_KEY_2');
+const senderKeypair = getKeypairFromEnvironment('SECRET_KEY');
 
 console.log(`suppliedToPubkey: ${suppliedToPubkey}`);
 

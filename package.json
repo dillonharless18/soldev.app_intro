@@ -36,6 +36,7 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "@solana-developers/helpers": "^1.4.2",
     "@solana-developers/node-helpers": "^1.2.1",
     "@solana/web3.js": "^1.87.6",
     "bigint-buffer": "^1.1.5",
